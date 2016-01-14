@@ -1,4 +1,4 @@
-docker-debian_nginx_joomla
+docker-debian_nginx_php
 ==========================
 
 Dockerfile for debian with nginx and php.
